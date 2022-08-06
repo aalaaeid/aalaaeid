@@ -1,6 +1,7 @@
  
 
-### Hi, I'm Aalaa Eid 👩🏽‍💻
+### Hi, I'm Aalaa Eid, an iOS developer from Egypt. 👩🏽‍💻
+
 
 
 
