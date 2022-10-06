@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img width="200" src="https://github.com/aalaaeid/aalaaeid/blob/main/images/strangerThingsGIF1.gif">
+  <img width="250" src="https://github.com/aalaaeid/aalaaeid/blob/main/images/strangerThingsGIF1.gif">
 </p>
 
 <h3  align="center">Find me on</h3>
