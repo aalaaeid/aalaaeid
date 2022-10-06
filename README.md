@@ -3,9 +3,9 @@
 
 
 <h3 align="center">
-        <samp>&gt; Hi!, I'm
+         Hi!, I'm
                 <b>Aalaa Eid. 👩🏽‍💻</a></b>
-        </samp>
+       
 </h3>
 <br>
 
