@@ -4,7 +4,9 @@
 <h2 align="center">Hi, I'm Aalaa Eid 👩🏽‍💻</h2>
 
 
-
+<p align="center">
+  <img width="300" src="https://github.com/aalaaeid/aalaaeid/blob/main/images/strangerThingsGIF1.gif">
+</p>
 
 <h3  align="center">Find me on</h3>
 <p align="center">
