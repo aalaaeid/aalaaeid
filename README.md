@@ -1,7 +1,13 @@
  
 
-### Hi, I'm Aalaa Eid. 👩🏽‍💻
 
+
+<h3 align="center">
+        <samp>&gt; Hi!, I'm
+                <b>Aalaa Eid. 👩🏽‍💻</a></b>
+        </samp>
+</h3>
+<br>
 
 
 <p align="center">
