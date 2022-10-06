@@ -1,15 +1,12 @@
  
 
 
-
-<h3 align="center">
-         Hi!, I'm
-                <b>Aalaa Eid. 👩🏽‍💻</a></b>
-       
-</h3>
-<br>
+<h2 align="center">Hi, I'm Aalaa Eid 👩🏽‍💻</h2>
 
 
+
+
+<h3  align="center">Find me on</h3>
 <p align="center">
   <a href="https://twitter.com/lwlaww" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
