@@ -25,7 +25,7 @@
 <li> 🔭 I’m currently building iOS Applications.</li>
 <li> 🌱 I’m currently practicing more Swift, and technical blogging.</li>
 <li> 🤝 I'm happy to connect, discuss, or part in any exciting activity. </li>
-<li> ⚡ Fun fact: Demogorgons fighter 😈 </li>
+<li> ⚡ Fun fact: Hawkins upside down fan  </li>
 </ul>
 
 
