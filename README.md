@@ -28,6 +28,9 @@
 <li> ⚡ Fun fact: Hawkins upside down fan  </li>
 </ul>
 
+  ## Latest Open Source Contribution
+
+ Fixing Search name in settings is misaligned [#13750](https://github.com/mozilla-mobile/firefox-ios/pull/13750) in [firefox-ios](https://github.com/mozilla-mobile/firefox-ios)
 
 <!--📕 &nbsp;**Latest Blog Posts** 
  [How to](https) -->
@@ -35,7 +38,7 @@
 
 <p align="centre">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aalaaeid&theme=holi-theme" alt="Alaa's github stats"/>
-</p>
+</p> 
 
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/aalaaeid/aalaaeid)
