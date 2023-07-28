@@ -18,22 +18,22 @@
 </p>
  <!--[![leetcode](https://github.com/aalaaeid/aalaaeid/blob/main/images/leetcode.png)](https://leetcode.com/aalaaeid/)-->
 
+  ## Latest Open Source Contributions
+
+ [firefox-ios](https://github.com/mozilla-mobile/firefox-ios)
+
+ Bugfix: Search name in settings is misaligned [#13750](https://github.com/mozilla-mobile/firefox-ios/pull/13750) 
+
+ Bugfix: "The newly created login is not correctly aligned in RTL locale (ar) [#14928](https://github.com/mozilla-mobile/firefox-ios/pull/14928)
+
+ Bugfix: the top/bottom space settings that changed in the RTL locale (ar) [#15032](https://github.com/mozilla-mobile/firefox-ios/pull/15032)
+
+ Bugfix: Pinch to zoom out can cause a page reload [#15702](https://github.com/mozilla-mobile/firefox-ios/pull/15702)
+
+ Refactor: Adding EnhancedTrackingProtection coordinator [15568](https://github.com/mozilla-mobile/firefox-ios/pull/15568), [15559](https://github.com/mozilla-mobile/firefox-ios/pull/15559), [15256](https://github.com/mozilla-mobile/firefox-ios/pull/15256), [15076](https://github.com/mozilla-mobile/firefox-ios/pull/15076), [15034](https://github.com/mozilla-mobile/firefox-ios/pull/15034), [15033](https://github.com/mozilla-mobile/firefox-ios/pull/15033), [15809](https://github.com/mozilla-mobile/firefox-ios/pull/15809)
 
 
-<img align="right" width="250" src="https://github.com/aalaaeid/aalaaeid/blob/main/images/strangerThingsGIF1.gif"/>
-<ul>
-<li> 🔭 I’m currently building iOS Applications.</li>
-<li> 🌱 I’m currently practicing more Swift </li>
-<li> 🤝 I'm happy to connect, discuss, or part in any exciting activity. </li>
-<li> ⚡ Fun fact: Hawkins upside down fan  </li>
-</ul>
 
-  ## Latest Open Source Contribution
-
- Fixing Search name in settings is misaligned [#13750](https://github.com/mozilla-mobile/firefox-ios/pull/13750) in [firefox-ios](https://github.com/mozilla-mobile/firefox-ios)
-
-<!--📕 &nbsp;**Latest Blog Posts** 
- [How to](https) -->
 
 
 <p align="centre">
