@@ -23,7 +23,7 @@
 <img align="right" width="250" src="https://github.com/aalaaeid/aalaaeid/blob/main/images/strangerThingsGIF1.gif"/>
 <ul>
 <li> 🔭 I’m currently building iOS Applications.</li>
-<li> 🌱 I’m currently practicing more Swift, and technical blogging.</li>
+<li> 🌱 I’m currently practicing more Swift </li>
 <li> 🤝 I'm happy to connect, discuss, or part in any exciting activity. </li>
 <li> ⚡ Fun fact: Hawkins upside down fan  </li>
 </ul>
