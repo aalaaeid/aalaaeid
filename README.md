@@ -20,7 +20,7 @@
 
   ## Latest Open Source Contributions
 
- [firefox-ios](https://github.com/mozilla-mobile/firefox-ios)
+ [Firefox-ios](https://github.com/mozilla-mobile/firefox-ios)
 
  Bugfix: Search name in settings is misaligned [#13750](https://github.com/mozilla-mobile/firefox-ios/pull/13750) 
 
