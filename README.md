@@ -24,7 +24,7 @@
 
  Bugfix: Search name in settings is misaligned [#13750](https://github.com/mozilla-mobile/firefox-ios/pull/13750) 
 
- Bugfix: "The newly created login is not correctly aligned in RTL locale (ar) [#14928](https://github.com/mozilla-mobile/firefox-ios/pull/14928)
+ Bugfix: The newly created login is not correctly aligned in RTL locale (ar) [#14928](https://github.com/mozilla-mobile/firefox-ios/pull/14928)
 
  Bugfix: the top/bottom space settings that changed in the RTL locale (ar) [#15032](https://github.com/mozilla-mobile/firefox-ios/pull/15032)
 
