@@ -26,11 +26,11 @@
 
  Bugfix: The newly created login is not correctly aligned in RTL locale (ar) [#14928](https://github.com/mozilla-mobile/firefox-ios/pull/14928)
 
- Bugfix: the top/bottom space settings that changed in the RTL locale (ar) [#15032](https://github.com/mozilla-mobile/firefox-ios/pull/15032)
+ Bugfix: The top/bottom space settings that changed in the RTL locale (ar) [#15032](https://github.com/mozilla-mobile/firefox-ios/pull/15032)
 
  Bugfix: Pinch to zoom out can cause a page reload [#15702](https://github.com/mozilla-mobile/firefox-ios/pull/15702)
 
- Refactor: Adding EnhancedTrackingProtection coordinator [15568](https://github.com/mozilla-mobile/firefox-ios/pull/15568), [15559](https://github.com/mozilla-mobile/firefox-ios/pull/15559), [15256](https://github.com/mozilla-mobile/firefox-ios/pull/15256), [15076](https://github.com/mozilla-mobile/firefox-ios/pull/15076), [15034](https://github.com/mozilla-mobile/firefox-ios/pull/15034), [15033](https://github.com/mozilla-mobile/firefox-ios/pull/15033), [15809](https://github.com/mozilla-mobile/firefox-ios/pull/15809)
+ Refactor: Added EnhancedTrackingProtection coordinator [15568](https://github.com/mozilla-mobile/firefox-ios/pull/15568), [15559](https://github.com/mozilla-mobile/firefox-ios/pull/15559), [15256](https://github.com/mozilla-mobile/firefox-ios/pull/15256), [15076](https://github.com/mozilla-mobile/firefox-ios/pull/15076), [15034](https://github.com/mozilla-mobile/firefox-ios/pull/15034), [15033](https://github.com/mozilla-mobile/firefox-ios/pull/15033), [15809](https://github.com/mozilla-mobile/firefox-ios/pull/15809)
 
 
 
