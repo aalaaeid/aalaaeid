@@ -30,7 +30,7 @@
 
  Bugfix: Pinch to zoom out can cause a page reload [#15702](https://github.com/mozilla-mobile/firefox-ios/pull/15702)
 
- Refactor: Added EnhancedTrackingProtection coordinator [15568](https://github.com/mozilla-mobile/firefox-ios/pull/15568), [15559](https://github.com/mozilla-mobile/firefox-ios/pull/15559), [15256](https://github.com/mozilla-mobile/firefox-ios/pull/15256), [15076](https://github.com/mozilla-mobile/firefox-ios/pull/15076), [15034](https://github.com/mozilla-mobile/firefox-ios/pull/15034), [15033](https://github.com/mozilla-mobile/firefox-ios/pull/15033), [15809](https://github.com/mozilla-mobile/firefox-ios/pull/15809)
+ Refactor: Handled EnhancedTrackingProtection flow coordinator [15568](https://github.com/mozilla-mobile/firefox-ios/pull/15568), [15559](https://github.com/mozilla-mobile/firefox-ios/pull/15559), [15256](https://github.com/mozilla-mobile/firefox-ios/pull/15256), [15076](https://github.com/mozilla-mobile/firefox-ios/pull/15076), [15034](https://github.com/mozilla-mobile/firefox-ios/pull/15034), [15033](https://github.com/mozilla-mobile/firefox-ios/pull/15033), [15809](https://github.com/mozilla-mobile/firefox-ios/pull/15809)
 
 
 
