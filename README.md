@@ -28,6 +28,8 @@
 
  Bugfix: The top/bottom space settings that changed in the RTL locale (ar) [#15032](https://github.com/mozilla-mobile/firefox-ios/pull/15032)
 
+ Bugfix: arrow direction is not correctly directed in RTL locale (ar) [#16050](https://github.com/mozilla-mobile/firefox-ios/pull/16050)
+
  Bugfix: Pinch to zoom out can cause a page reload [#15702](https://github.com/mozilla-mobile/firefox-ios/pull/15702)
 
  Refactor: Handled EnhancedTrackingProtection flow coordinator [15568](https://github.com/mozilla-mobile/firefox-ios/pull/15568), [15559](https://github.com/mozilla-mobile/firefox-ios/pull/15559), [15256](https://github.com/mozilla-mobile/firefox-ios/pull/15256), [15076](https://github.com/mozilla-mobile/firefox-ios/pull/15076), [15034](https://github.com/mozilla-mobile/firefox-ios/pull/15034), [15033](https://github.com/mozilla-mobile/firefox-ios/pull/15033), [15809](https://github.com/mozilla-mobile/firefox-ios/pull/15809)
