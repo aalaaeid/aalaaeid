@@ -40,9 +40,6 @@
 
 
 
-<p align="centre">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=aalaaeid&theme=holi-theme" alt="Alaa's github stats"/>
-</p> 
 
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/aalaaeid/aalaaeid)
