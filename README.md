@@ -3,7 +3,7 @@
 
 <h2 align="center">Hi, I'm Aalaa Eid 👩🏽‍💻</h2>
 <p align="center">
-  <a href="https://twitter.com/lwlaww" target="_blank">
+  <a href="https://twitter.com/iaalaaeid" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
   </a>
   <a href="https://www.linkedin.com/in/aalaa-eid" target="_blank">
