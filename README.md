@@ -51,13 +51,6 @@
  Refactor: Handled EnhancedTrackingProtection flow coordinator [15568](https://github.com/mozilla-mobile/firefox-ios/pull/15568), [15559](https://github.com/mozilla-mobile/firefox-ios/pull/15559), [15256](https://github.com/mozilla-mobile/firefox-ios/pull/15256), [15076](https://github.com/mozilla-mobile/firefox-ios/pull/15076), [15034](https://github.com/mozilla-mobile/firefox-ios/pull/15034), [15033](https://github.com/mozilla-mobile/firefox-ios/pull/15033), [15809](https://github.com/mozilla-mobile/firefox-ios/pull/15809)
 
 
-
-
-
-
-
-![GitHub last commit](https://img.shields.io/github/last-commit/aalaaeid/aalaaeid)
-![pv](https://pageview.vercel.app/?github_user=aalaaeid)
  
 
 
