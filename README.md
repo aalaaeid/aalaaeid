@@ -11,11 +11,8 @@
 </p>
 
 <p align="center">
-  When I’m not coding, you’ll find me 📚 reading, 🏋🏽‍♀️ lifting weights, or 🛶 kayaking.  
-  Let’s connect 
-  <a href="https://twitter.com/iaalaaeid" target="_blank">
-    <img src="https://img.shields.io/badge/X-%231877F2.svg?&style=for-the-badge&logo=X&logoColor=white&color=071A2C" alt="Twitter" />
-  </a> 🤝
+  When I’m not coding, you’ll find me 📚 reading, 🏋🏽‍♀️ lifting weights, or 🛶 kayaking. 
+ <a href="https://twitter.com/iaalaaeid" target="_blank"> Let’s connect 👋</a>.
 </p>
 
 
