@@ -2,7 +2,24 @@
 
 
 <h2 align="center">Hi, I'm Aalaa Eid 👩🏽‍💻</h2>
+
 <p align="center">
+  Curious about what I’ve been up to? Check out my  
+  <a href="https://aalaa.hashnode.dev" target="_blank">writings</a>,  
+  <a href="https://github.com/aalaa-eid" target="_blank">projects</a>, and  
+  <a href="https://www.linkedin.com/in/aalaa-eid" target="_blank">LinkedIn</a>.
+</p>
+
+<p align="center">
+  When I’m not coding, you’ll find me 📚 reading, 🏋🏽‍♀️ lifting weights, or 🛶 kayaking.  
+  Let’s connect 
+  <a href="https://twitter.com/iaalaaeid" target="_blank">
+    <img src="https://img.shields.io/badge/X-%231877F2.svg?&style=for-the-badge&logo=X&logoColor=white&color=071A2C" alt="Twitter" />
+  </a> 🤝
+</p>
+
+
+ <!--<p align="center">
   <a href="https://twitter.com/iaalaaeid" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
   </a>
