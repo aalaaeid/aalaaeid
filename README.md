@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/aalaa-eid" target="_blank">LinkedIn</a>.
 </p>
 
-<p align="center">
+ <!--<p align="center">
   When I’m not coding, you’ll find me 📚 reading, 🏋🏽‍♀️ lifting weights, or 🛶 kayaking. 
  <a href="https://twitter.com/iaalaaeid" target="_blank"> Let’s connect 👋</a>.
 </p>
