@@ -6,7 +6,7 @@
 <p align="center">
   Curious about what I’ve been up to? Check out my  
   <a href="https://aalaa.hashnode.dev" target="_blank">writings</a>,  
-  <a href="https://github.com/aalaa-eid" target="_blank">projects</a>, and  
+  <a href="https://github.com/aalaaeid" target="_blank">projects</a>, and  
   <a href="https://www.linkedin.com/in/aalaa-eid" target="_blank">LinkedIn</a>.
 </p>
 
